@@ -35,7 +35,7 @@ This is a simple and responsive shopping website built using **React.js** and th
 
 1. Clone the repository:
 
-   git clone https://www.github.com/mohitsharma1507/ShoppingCart.git
+   git clone https://www.github.com/mohitsharma1507/CartShopping.git
    cd Frontend
    npm install
    npm run dev

@@ -3,7 +3,7 @@
 This is a simple and responsive shopping website built using **React.js** and the **Fake Store API** as part of a front-end internship assignment. It includes authentication, product browsing, cart management, and order confirmation features.
 
 ## Live Demo
- Live Link :
+ Live Link :https://cart-shopping-kappa.vercel.app/
 
 ## Features
 
